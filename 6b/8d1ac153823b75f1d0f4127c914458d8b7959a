@@ -1,0 +1,19 @@
+src/util/search.ts
+  s_86ad74cc30938f::t_ee4ac060bf6592 1,3-10,12-14,16-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6b8d1ac153823b75f1d0f4127c914458d8b7959a",
+  "prompts": {},
+  "sessions": {
+    "s_86ad74cc30938f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_07af50e3dffeYZLOtRxtgAxuOd",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Cole Huetten <chuetten@cloudflare.com>"
+    }
+  }
+}
